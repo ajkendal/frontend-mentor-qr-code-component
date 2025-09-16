@@ -20,9 +20,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ajkendal/frontend-mentor-qr-code-component)
-- Live Site URL: [Add live site URL here](https://ajkendal.github.io/frontend-mentor-qr-code-component/)
-- Frontend Mentor Submission: [Frontend Mentor]()
+- Solution URL: [GitHub Repo](https://github.com/ajkendal/frontend-mentor-qr-code-component)
+- Live Site URL: [QR Code Component](https://ajkendal.github.io/frontend-mentor-qr-code-component/)
+- Frontend Mentor Submission: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qr-code-with-grid-Ipljsgu7du)
 
 ## My process
 
