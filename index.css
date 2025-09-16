@@ -34,7 +34,7 @@ figure,
 blockquote,
 dl,
 dd {
-  margin-block-end: 0;
+  margin: 0;
 }
 
 /* Set core body defaults */
@@ -146,4 +146,9 @@ textarea:not([rows]) {
 
 .qr-code {
   border-radius: 10px;
+}
+
+.text {
+  display: grid;
+  gap: var(--spacing-200);
 }
